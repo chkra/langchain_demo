@@ -1,0 +1,7 @@
+langgraph
+langsmith
+langchain_anthropic
+tavily-python
+langchain_community
+langchain-text-splitters 
+bs4
